@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c8763cc4.chunk.css",
+    "main.js": "/static/js/main.e818664e.chunk.js",
+    "main.js.map": "/static/js/main.e818664e.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.09b85ec0.js",
+    "runtime-main.js.map": "/static/js/runtime-main.09b85ec0.js.map",
+    "static/js/2.6a7d3a2e.chunk.js": "/static/js/2.6a7d3a2e.chunk.js",
+    "static/js/2.6a7d3a2e.chunk.js.map": "/static/js/2.6a7d3a2e.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.f4dbb5bfbf7cc374bbaa784ae63e510f.js": "/precache-manifest.f4dbb5bfbf7cc374bbaa784ae63e510f.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.c8763cc4.chunk.css.map": "/static/css/main.c8763cc4.chunk.css.map",
+    "static/js/2.6a7d3a2e.chunk.js.LICENSE.txt": "/static/js/2.6a7d3a2e.chunk.js.LICENSE.txt",
+    "static/media/Mediya-01.png": "/static/media/Mediya-01.6dfd9f27.png",
+    "static/media/avatar.png": "/static/media/avatar.64871349.png",
+    "static/media/loading.gif": "/static/media/loading.fc5e16f5.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.09b85ec0.js",
+    "static/js/2.6a7d3a2e.chunk.js",
+    "static/css/main.c8763cc4.chunk.css",
+    "static/js/main.e818664e.chunk.js"
+  ]
+}
